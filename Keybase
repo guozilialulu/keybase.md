@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am guozilialulu on github.
+  * I am guozili (https://keybase.io/guozili) on keybase.
+  * I have a public key ASC6J-fZV65RKnfhDtEersJ9Lki2J4jg1X5LAhtcf4cQ1Qo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ba27e7d957ae512a77e10ed11eaec27d2e48b62788e0d57e4b021b5c7f8710d50a",
+      "host": "keybase.io",
+      "kid": "0120ba27e7d957ae512a77e10ed11eaec27d2e48b62788e0d57e4b021b5c7f8710d50a",
+      "uid": "f9880adbb69057f9b74e425433f4ca19",
+      "username": "guozili"
+    },
+    "merkle_root": {
+      "ctime": 1568192485,
+      "hash": "3cc12ff56a4c28c1b9b11dfa7eadfe8cfb92b29acf5d9fe838c5ef2fe2d5f2a9294b679851b52d815760b441cc2a5f2f00cd19a95b9067cd768b728d3d3bd936",
+      "hash_meta": "4f5ade49d2ee301737999f3ba9bc2a76e680ba4e4b15d758e9a539129d7db3cb",
+      "seqno": 6652770
+    },
+    "service": {
+      "entropy": "SdMtzCw6KXUG49jPOzQWUY9M",
+      "name": "github",
+      "username": "guozilialulu"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568192610,
+  "expire_in": 504576000,
+  "prev": "5d030d9396eaafdec51ad8f1dad8cb465aa1207f33aced3d2824fad0f4fdffe1",
+  "seqno": 4,
+  "tag": "signature"
+}
+```
+
+with the key [ASC6J-fZV65RKnfhDtEersJ9Lki2J4jg1X5LAhtcf4cQ1Qo](https://keybase.io/guozili), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEguifn2VeuUSp34Q7RHq7CfS5ItieI4NV+SwIbXH+HENUKp3BheWxvYWTESpcCBMQgXQMNk5bqr97FGtjx2tjLRlqhIH8zrO09KCT60PT9/+HEIEXLJ3fHdzE6pxu9qSlf22H/2v7K0mnCUO/GdpYeS4CCAgHCo3NpZ8RAx6HjZTSrFA1en144uAqX32nT+W9bJ/Va2007dUTEj21nkPaHpqlG4or6/7fVzuqfDQeoxt4fElKYpY7xLbqGDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIE/UxPN2aN1gZZNrNY8tykWY22LbAo0uGShLrAO1T+vKo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/guozili
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id guozili
+```
